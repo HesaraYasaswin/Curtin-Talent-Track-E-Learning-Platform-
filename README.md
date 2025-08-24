@@ -32,17 +32,17 @@ CurtinTalentTrack is an e-learning platform designed to provide students with a 
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 30px; perspective: 1000px; transform-style: preserve-3d;">
 
-  <!-- Top Image -->
-  <div style="transform: rotateX(10deg) translateZ(-20px); box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
-    <img src="screenshots/Admin Dashboard.png" alt="Admin Dashboard" width="300">
-  </div>
-
-  <!-- Middle Image -->
+  <!-- Dashboard Image (highlighted first) -->
   <div style="transform: translateZ(50px); box-shadow: 0 20px 40px rgba(0,0,0,0.3);">
     <img src="screenshots/Dashboard.png" alt="Dashboard" width="350">
   </div>
 
-  <!-- Bottom Image -->
+  <!-- Admin Dashboard Image -->
+  <div style="transform: rotateX(10deg) translateZ(-20px); box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
+    <img src="screenshots/Admin Dashboard.png" alt="Admin Dashboard" width="300">
+  </div>
+
+  <!-- Evaluator Dashboard Image -->
   <div style="transform: rotateX(-10deg) translateZ(-20px); box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
     <img src="screenshots/Evaluator Dashboard.png" alt="Evaluator Dashboard" width="300">
   </div>
@@ -52,23 +52,7 @@ CurtinTalentTrack is an e-learning platform designed to provide students with a 
 
 
 
+
 ---
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/HesaraYasaswin/CurtinTalentTrack-E-Learning-Platform.git
-cd CurtinTalentTrack-E-Learning-Platform
-
-# Install backend dependencies
-cd backend
-npm install
-
-# Install frontend dependencies
-cd ../frontend
-npm install
-
-# Run the application (from project root)
-npm start
 
