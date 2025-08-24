@@ -163,13 +163,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
 
-**Built with ❤️ by Team SD06 for the Curtin University Community**
-
-*Empowering communication excellence through innovative technology*
-
-[![GitHub stars](https://img.shields.io/github/stars/HesaraYasaswin/CurtinTalentTrack?style=social)](https://github.com/HesaraYasaswin/CurtinTalentTrack/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HesaraYasaswin/CurtinTalentTrack?style=social)](https://github.com/HesaraYasaswin/CurtinTalentTrack/network/members)
-
-</div>
