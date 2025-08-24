@@ -28,45 +28,23 @@ CurtinTalentTrack is an e-learning platform designed to provide students with a 
 ---
 
 ## Screenshots
-<h2 style="text-align:center;">Project Screenshots</h2>
+<h2 align="center">Project Screenshots</h2>
 
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-  perspective: 1000px;
-  transform-style: preserve-3d;
-  flex-wrap: nowrap;
-  width: 100%;
-  overflow-x: auto;
-">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 30px; perspective: 1000px; transform-style: preserve-3d;">
 
-  <!-- Left Image -->
-  <div style="
-    transform: rotateY(15deg) translateZ(-30px);
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
-    flex-shrink: 0;
-  ">
-    <img src="screenshots/Admin Dashboard.png" alt="Admin Dashboard" width="200">
+  <!-- Top Image -->
+  <div style="transform: rotateX(10deg) translateZ(-20px); box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
+    <img src="screenshots/Admin Dashboard.png" alt="Admin Dashboard" width="300">
   </div>
 
-  <!-- Center Image -->
-  <div style="
-    transform: translateZ(50px);
-    box-shadow: 0 15px 30px rgba(0,0,0,0.3);
-    flex-shrink: 0;
-  ">
-    <img src="screenshots/Dashboard.png" alt="Dashboard" width="200">
+  <!-- Middle Image -->
+  <div style="transform: translateZ(50px); box-shadow: 0 20px 40px rgba(0,0,0,0.3);">
+    <img src="screenshots/Dashboard.png" alt="Dashboard" width="350">
   </div>
 
-  <!-- Right Image -->
-  <div style="
-    transform: rotateY(-15deg) translateZ(-30px);
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
-    flex-shrink: 0;
-  ">
-    <img src="screenshots/Evaluator Dashboard.png" alt="Evaluator Dashboard" width="200">
+  <!-- Bottom Image -->
+  <div style="transform: rotateX(-10deg) translateZ(-20px); box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
+    <img src="screenshots/Evaluator Dashboard.png" alt="Evaluator Dashboard" width="300">
   </div>
 
 </div>
