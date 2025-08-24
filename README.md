@@ -30,24 +30,25 @@ CurtinTalentTrack is an e-learning platform designed to provide students with a 
 ## Screenshots
 <h2 align="center">Project Screenshots</h2>
 
-<div style="display: flex; justify-content: center; align-items: flex-end; gap: 20px; perspective: 1000px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; perspective: 1000px; transform-style: preserve-3d; flex-wrap: nowrap;">
 
   <!-- Left Image -->
-  <div style="transform: rotateY(15deg) translateZ(-20px); box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
+  <div style="transform: rotateY(15deg) translateZ(-30px); box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
     <img src="screenshots/Admin Dashboard.png" alt="Admin Dashboard" width="200">
   </div>
 
   <!-- Center Image -->
-  <div style="transform: translateZ(30px); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <div style="transform: translateZ(50px); box-shadow: 0 15px 30px rgba(0,0,0,0.3);">
     <img src="screenshots/Dashboard.png" alt="Dashboard" width="200">
   </div>
 
   <!-- Right Image -->
-  <div style="transform: rotateY(-15deg) translateZ(-20px); box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
+  <div style="transform: rotateY(-15deg) translateZ(-30px); box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
     <img src="screenshots/Evaluator Dashboard.png" alt="Evaluator Dashboard" width="200">
   </div>
 
 </div>
+
 
 
 ---
