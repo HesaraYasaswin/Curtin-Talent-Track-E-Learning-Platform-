@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<h2> Project Screenshots</h2>
 
 <!-- Dashboard Image -->
 <img src="screenshots/Dashboard.png" alt="User Dashboard" width="400">
