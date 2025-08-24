@@ -32,7 +32,6 @@
 | **Aspect** | **Details** |
 |------------|-------------|
 | **Project Owner** | HesaraYasaswin |
-| **Team** | SD06 (Anjana Wishwajith, Malith Pramuditha, Hesara Yasaswin, Rizkan Rhazes) |
 | **Project Type** | ISAD 3000 - Capstone Computing Project |
 | **Version** | 2.0 |
 | **Tech Stack** | MERN (MongoDB, Express.js, React, Node.js) |
@@ -146,11 +145,6 @@ The platform provides a structured environment where users can practice, receive
 - **Accessibility**: WCAG 2.1 AA compliance
 - **Load Time**: < 3 seconds initial page load
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
